@@ -1,0 +1,2885 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.9.29)  23 OCT 2025 19:24
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/home/ubuntu-vm/GitHub/appunti-campi-elettromagnetici/File in Latex Definitivo/Appunti Campi Elettromagnetici.tex"
+(/home/ubuntu-vm/GitHub/appunti-campi-elettromagnetici/File in Latex Definitivo/Appunti Campi Elettromagnetici.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@chapter=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count271
+) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count272
+) (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen142
+\Hy@linkcounter=\count273
+\Hy@pagecounter=\count274
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count275
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count276
+ (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen143
+ (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count277
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count278
+\c@Item=\count279
+\c@Hfootnote=\count280
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count281
+\c@bookmark@seq@number=\count282
+ (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip51
+) (/usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO)
+\BKM@id=\count283
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2025/02/14 v25.4 The multilingual framework for pdfLaTeX, LuaLaTeX and XeLaTeX
+\babel@savecnt=\count284
+\U@D=\dimen146
+\l@unhyphenated=\language90
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count285
+ (/usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2024/10/10 v.1.5.01 Italian support for the babel system
+\it@lettering=\count286
+\it@doublequoteactive=\count287
+\it@ISOcompliance=\count288
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/it/babel-italian.tex
+Package babel Info: Importing font and identification data for italian
+(babel)             from babel-it.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count289
+\Gm@cntv=\count290
+\c@Gm@tempcnt=\count291
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+Package: tcolorbox 2024/10/22 version 6.4.1 text color boxes
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks19
+\pgfutil@tempdima=\dimen155
+\pgfutil@tempdimb=\dimen156
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box52
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks20
+\pgfkeys@temptoks=\toks21
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks22
+))
+\pgf@x=\dimen159
+\pgf@y=\dimen160
+\pgf@xa=\dimen161
+\pgf@ya=\dimen162
+\pgf@xb=\dimen163
+\pgf@yb=\dimen164
+\pgf@xc=\dimen165
+\pgf@yc=\dimen166
+\pgf@xd=\dimen167
+\pgf@yd=\dimen168
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count292
+\c@pgf@countb=\count293
+\c@pgf@countc=\count294
+\c@pgf@countd=\count295
+\t@pgf@toka=\toks23
+\t@pgf@tokb=\toks24
+\t@pgf@tokc=\toks25
+\pgf@sys@id@count=\count296
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count297
+\pgfsyssoftpath@bigbuffer@items=\count298
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen169
+\pgfmath@count=\count299
+\pgfmath@box=\box53
+\pgfmath@toks=\toks26
+\pgfmath@stack@operand=\toks27
+\pgfmath@stack@operation=\toks28
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count300
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen170
+\pgf@picmaxx=\dimen171
+\pgf@picminy=\dimen172
+\pgf@picmaxy=\dimen173
+\pgf@pathminx=\dimen174
+\pgf@pathmaxx=\dimen175
+\pgf@pathminy=\dimen176
+\pgf@pathmaxy=\dimen177
+\pgf@xx=\dimen178
+\pgf@xy=\dimen179
+\pgf@yx=\dimen180
+\pgf@yy=\dimen181
+\pgf@zx=\dimen182
+\pgf@zy=\dimen183
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen184
+\pgf@path@lasty=\dimen185
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen186
+\pgf@shorten@start@additional=\dimen187
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box54
+\pgf@hbox=\box55
+\pgf@layerbox@main=\box56
+\pgf@picture@serial@count=\count301
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen188
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen189
+\pgf@pt@y=\dimen190
+\pgf@pt@temp=\dimen191
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen192
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen193
+\pgf@sys@shading@range@num=\count302
+\pgf@shadingcount=\count303
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box57
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box58
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen194
+\pgf@nodesepend=\dimen195
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen196
+\pgffor@skip=\dimen197
+\pgffor@stack=\toks29
+\pgffor@toks=\toks30
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count304
+\pgfplotmarksize=\dimen198
+)
+\tikz@lastx=\dimen199
+\tikz@lasty=\dimen256
+\tikz@lastxsaved=\dimen257
+\tikz@lastysaved=\dimen258
+\tikz@lastmovetox=\dimen259
+\tikz@lastmovetoy=\dimen260
+\tikzleveldistance=\dimen261
+\tikzsiblingdistance=\dimen262
+\tikz@figbox=\box59
+\tikz@figbox@bg=\box60
+\tikz@tempbox=\box61
+\tikz@tempbox@bg=\box62
+\tikztreelevel=\count305
+\tikznumberofchildren=\count306
+\tikznumberofcurrentchild=\count307
+\tikz@fig@count=\count308
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count309
+\pgfmatrixcurrentcolumn=\count310
+\pgf@matrix@numberofcolumns=\count311
+)
+\tikz@expandcount=\count312
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks31
+\verbatim@line=\toks32
+\verbatim@in@stream=\read4
+) (/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks33
+)
+\tcb@titlebox=\box63
+\tcb@upperbox=\box64
+\tcb@lowerbox=\box65
+\tcb@phantombox=\box66
+\c@tcbbreakpart=\count313
+\c@tcblayer=\count314
+\c@tcolorbox@number=\count315
+\l__tcobox_tmpa_box=\box67
+\l__tcobox_tmpa_dim=\dimen263
+\tcb@temp=\box68
+\tcb@temp=\box69
+\tcb@temp=\box70
+\tcb@temp=\box71
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2024/11/05 v2.17t AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks34
+\ex@=\dimen264
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen265
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count316
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count317
+\leftroot@=\count318
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count319
+\DOTSCASE@=\count320
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box72
+\strutbox@=\box73
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen266
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count321
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count322
+\dotsspace@=\muskip18
+\c@parentequation=\count323
+\dspbrk@lvl=\count324
+\tag@help=\toks35
+\row@=\count325
+\column@=\count326
+\maxfields@=\count327
+\andhelp@=\toks36
+\eqnshift@=\dimen267
+\alignsep@=\dimen268
+\tagshift@=\dimen269
+\tagwidth@=\dimen270
+\totwidth@=\dimen271
+\lineht@=\dimen272
+\@envbody=\toks37
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks38
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (/usr/share/texlive/texmf-dist/tex/latex/physics/physics.sty
+Package: physics 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count328
+\l__pdf_internal_box=\box74
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/share/texlive/texmf-dist/tex/latex/gensymb/gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (/usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchronous mode
+ (/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks39
+\XKV@tempa@toks=\toks40
+)
+\XKV@depth=\count329
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
+\c@tracingmulticols=\count330
+\mult@box=\box75
+\multicol@leftmargin=\dimen273
+\c@unbalance=\count331
+\c@collectmore=\count332
+\doublecol@number=\count333
+\multicoltolerance=\count334
+\multicolpretolerance=\count335
+\full@width=\dimen274
+\page@free=\dimen275
+\premulticols=\dimen276
+\postmulticols=\dimen277
+\multicolsep=\skip55
+\multicolbaselineskip=\skip56
+\partial@page=\box76
+\last@line=\box77
+\mc@boxedresult=\box78
+\maxbalancingoverflow=\dimen278
+\mult@rightbox=\box79
+\mult@grightbox=\box80
+\mult@firstbox=\box81
+\mult@gfirstbox=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\c@minrows=\count336
+\c@columnbadness=\count337
+\c@finalcolumnbadness=\count338
+\last@try=\dimen279
+\multicolovershoot=\dimen280
+\multicolundershoot=\dimen281
+\mult@nat@firstbox=\box119
+\colbreak@box=\box120
+\mc@col@check@num=\count339
+))
+\"Appunti Campi Elettromagnetici"@idxfile=\write4
+\openout4 = `"Appunti Campi Elettromagnetici.idx"'.
+
+
+Writing index file "Appunti Campi Elettromagnetici".idx
+Package hyperref Info: Option `colorlinks' set `true' on input line 39.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 39.
+(./Appunti Campi Elettromagnetici.aux (./Introduzione.aux) (./Tabella lettere greche.aux) (./1 - Equazioni di Maxwell.aux) (./2 - Onde in forma fasoriale.aux) (./3 - Teorema di Poynting.aux) (./4 - Continuità dei campi.aux) (./5 - Onde piane.aux) (./6 - Onde piane TEM tra due materiali.aux) (./7 - Onde piane TE e TM tra due materiali.aux) (./8 - Cavo Coax.aux) (./9 - Guide d'onda.aux) (./10 - Guide d'onda rettangolari.aux) (./11 - Modi di guida d'onda rettangolare.aux))
+\openout1 = `"Appunti Campi Elettromagnetici.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+Package hyperref Info: Link coloring ON on input line 44.
+LaTeX Info: Redefining \it@ocap on input line 44.
+LaTeX Info: Redefining \it@ccap on input line 44.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting
+italian.ldf    on input line 44.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.2698pt, 452.96826pt, 72.2698pt)
+* v-part:(T,H,B)=(54.06006pt, 736.92673pt, 54.06006pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.96826pt
+* \textheight=736.92673pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-48.27742pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=125.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count340
+\scratchdimen=\dimen282
+\scratchbox=\box121
+\nofMPsegments=\count341
+\nofMParguments=\count342
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count343
+\MPscratchDim=\dimen283
+\MPnumerator=\count344
+\makeMPintoPDFobject=\count345
+\everyMPtoPDFconversion=\toks42
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 44.
+Package gensymb Info: Math companion symbols declared on input line 44.
+LaTeX Info: Redefining \degree on input line 44.
+LaTeX Info: Redefining \celsius on input line 44.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 44.
+LaTeX Info: Redefining \ohm on input line 44.
+Package gensymb Info: Using \textohm for \ohm on input line 44.
+Package gensymb Info: Using \textmu for \micro on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 47.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 47.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+[1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `Introduzione.aux'.
+
+ (./Introduzione.tex
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+[][]$\OT1/cmtt/m/n/10 https : / / www . rapidtables . org / it / math / symbols / greek _ alphabet . html$[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+
+[2
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./Appunti Campi Elettromagnetici.toc
+
+[3
+
+
+
+])
+\tf@toc=\write5
+\openout5 = `"Appunti Campi Elettromagnetici.toc"'.
+
+
+
+[4]
+\openout2 = `"Tabella lettere greche.aux"'.
+
+ (./Tabella lettere greche.tex
+
+[5
+
+])
+\openout2 = `"1 - Equazioni di Maxwell.aux"'.
+
+ (./1 - Equazioni di Maxwell.tex
+
+[6
+
+
+
+
+]
+Capitolo 1.
+<./immagini/James_Clerk_Maxwell.png, id=153, 332.24126pt x 399.4925pt>
+File: ./immagini/James_Clerk_Maxwell.png Graphic file (type png)
+<use ./immagini/James_Clerk_Maxwell.png>
+Package pdftex.def Info: ./immagini/James_Clerk_Maxwell.png  used on input line 5.
+(pdftex.def)             Requested size: 332.24043pt x 399.49152pt.
+<./immagini/James_Clerk_Maxwell_sig.png, id=155, 162.206pt x 54.604pt>
+File: ./immagini/James_Clerk_Maxwell_sig.png Graphic file (type png)
+<use ./immagini/James_Clerk_Maxwell_sig.png>
+Package pdftex.def Info: ./immagini/James_Clerk_Maxwell_sig.png  used on input line 11.
+(pdftex.def)             Requested size: 162.20558pt x 54.60387pt.
+
+
+[7 <./immagini/James_Clerk_Maxwell.png> <./immagini/James_Clerk_Maxwell_sig.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+<./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 1-36 screenshot.png, id=166, 704.6325pt x 773.13844pt>
+File: ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 1-36 screenshot.png Graphic file (type png)
+<use ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 1-36 screenshot.png>
+Package pdftex.def Info: ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 1-36 screenshot.png  used on input line 65.
+(pdftex.def)             Requested size: 140.924pt x 154.62494pt.
+<./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 2-10 screenshot.png, id=167, 706.89093pt x 767.86874pt>
+File: ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 2-10 screenshot.png Graphic file (type png)
+<use ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 2-10 screenshot.png>
+Package pdftex.def Info: ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 2-10 screenshot.png  used on input line 66.
+(pdftex.def)             Requested size: 141.37567pt x 153.57103pt.
+<./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 6-43 screenshot.png, id=168, 755.82375pt x 578.91281pt>
+File: ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 6-43 screenshot.png Graphic file (type png)
+<use ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 6-43 screenshot.png>
+Package pdftex.def Info: ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 6-43 screenshot.png  used on input line 72.
+(pdftex.def)             Requested size: 151.16206pt x 115.7805pt.
+<./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 7-6 screenshot.png, id=169, 753.5653pt x 558.58687pt>
+File: ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 7-6 screenshot.png Graphic file (type png)
+<use ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 7-6 screenshot.png>
+Package pdftex.def Info: ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 7-6 screenshot.png  used on input line 73.
+(pdftex.def)             Requested size: 150.71039pt x 111.7154pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+
+ []
+
+
+Underfull \vbox (badness 2197) has occurred while \output is active []
+
+
+
+[8 <./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 1-36 screenshot.png> <./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 2-10 screenshot.png>]
+
+[9 <./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 6-43 screenshot.png> <./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 7-6 screenshot.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--120
+
+ []
+
+
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--189
+
+ []
+
+
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 201--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--243
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--243
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--243
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 302--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--304
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 305--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--311
+
+ []
+
+
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 334--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--350
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--367
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+
+ []
+
+
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 445--447
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--451
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--497
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--525
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--533
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 530--533
+
+ []
+
+
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 560--562
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--562
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--569
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 600--601
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
+
+ []
+
+
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 613--614
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--616
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--627
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--629
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 628--629
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--641
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--641
+
+ []
+
+
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 653--656
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 667--668
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 685--686
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--757
+
+ []
+
+
+
+[19]
+
+[20])
+\openout2 = `"2 - Onde in forma fasoriale.aux"'.
+
+ (./2 - Onde in forma fasoriale.tex
+Capitolo 2.
+<./immagini/Fasori rappresentazione.png, id=296, 553.06625pt x 215.80624pt>
+File: ./immagini/Fasori rappresentazione.png Graphic file (type png)
+<use ./immagini/Fasori rappresentazione.png>
+Package pdftex.def Info: ./immagini/Fasori rappresentazione.png  used on input line 5.
+(pdftex.def)             Requested size: 497.75502pt x 194.22382pt.
+
+Overfull \hbox (44.78676pt too wide) in paragraph at lines 5--6
+ [][] 
+ []
+
+
+
+[21
+
+
+
+
+ <./immagini/Fasori rappresentazione.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+LaTeX Font Info:    Trying to load font information for U+euf on input line 80.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--199
+
+ []
+
+<./immagini/InQuadratura.jpg, id=329, 528.47438pt x 255.95625pt>
+File: ./immagini/InQuadratura.jpg Graphic file (type jpg)
+<use ./immagini/InQuadratura.jpg>
+Package pdftex.def Info: ./immagini/InQuadratura.jpg  used on input line 202.
+(pdftex.def)             Requested size: 422.78008pt x 204.76526pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+
+
+[24 <./immagini/InQuadratura.jpg>])
+\openout2 = `"3 - Teorema di Poynting.aux"'.
+
+ (./3 - Teorema di Poynting.tex
+Capitolo 3.
+<./immagini/John_Henry_Poynting.jpg, id=339, 556.0775pt x 756.8275pt>
+File: ./immagini/John_Henry_Poynting.jpg Graphic file (type jpg)
+<use ./immagini/John_Henry_Poynting.jpg>
+Package pdftex.def Info: ./immagini/John_Henry_Poynting.jpg  used on input line 5.
+(pdftex.def)             Requested size: 278.03807pt x 378.41283pt.
+<./immagini/John_Henry_Poynting_signature.png, id=340, 1267.937pt x 412.742pt>
+File: ./immagini/John_Henry_Poynting_signature.png Graphic file (type png)
+<use ./immagini/John_Henry_Poynting_signature.png>
+Package pdftex.def Info: ./immagini/John_Henry_Poynting_signature.png  used on input line 10.
+(pdftex.def)             Requested size: 253.5829pt x 82.54694pt.
+
+
+[25
+
+
+
+
+ <./immagini/John_Henry_Poynting.jpg> <./immagini/John_Henry_Poynting_signature.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--177
+
+ []
+
+
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+
+
+[28]
+<./immagini/Ohmic loss.PNG, id=380, 892.5345pt x 290.2845pt>
+File: ./immagini/Ohmic loss.PNG Graphic file (type png)
+<use ./immagini/Ohmic loss.PNG>
+Package pdftex.def Info: ./immagini/Ohmic loss.PNG  used on input line 228.
+(pdftex.def)             Requested size: 446.26616pt x 145.14189pt.
+
+
+[29 <./immagini/Ohmic loss.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
+
+ []
+
+
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--369
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+[][]$\OT1/cmtt/m/n/10 https : / / www . youmath . it / lezioni / analisi-[]matematica / numeri-[]complessi /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--406
+
+ []
+
+
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--420
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+
+ []
+
+
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 473--475
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--475
+
+ []
+
+
+
+[33])
+\openout2 = `"4 - Continuità dei campi.aux"'.
+
+ (./4 - Continuità dei campi.tex
+
+[34
+
+
+
+
+]
+Capitolo 4.
+<./immagini/Michael_Faraday_sitting_crop.jpg, id=443, 263.7855pt x 348.8232pt>
+File: ./immagini/Michael_Faraday_sitting_crop.jpg Graphic file (type jpg)
+<use ./immagini/Michael_Faraday_sitting_crop.jpg>
+Package pdftex.def Info: ./immagini/Michael_Faraday_sitting_crop.jpg  used on input line 5.
+(pdftex.def)             Requested size: 263.78485pt x 348.82234pt.
+<./immagini/Michael_Faraday_signature.png, id=444, 324.412pt x 98.769pt>
+File: ./immagini/Michael_Faraday_signature.png Graphic file (type png)
+<use ./immagini/Michael_Faraday_signature.png>
+Package pdftex.def Info: ./immagini/Michael_Faraday_signature.png  used on input line 11.
+(pdftex.def)             Requested size: 259.52995pt x 79.01529pt.
+
+
+[35 <./immagini/Michael_Faraday_sitting_crop.jpg> <./immagini/Michael_Faraday_signature.png>]
+<./immagini/Faraday's law.PNG, id=451, 542.62724pt x 233.07076pt>
+File: ./immagini/Faraday's law.PNG Graphic file (type png)
+<use ./immagini/Faraday's law.PNG>
+Package pdftex.def Info: ./immagini/Faraday's law.PNG  used on input line 22.
+(pdftex.def)             Requested size: 434.10239pt x 186.45685pt.
+<./immagini/Continuity of E in a boundary.PNG, id=453, 741.972pt x 151.767pt>
+File: ./immagini/Continuity of E in a boundary.PNG Graphic file (type png)
+<use ./immagini/Continuity of E in a boundary.PNG>
+Package pdftex.def Info: ./immagini/Continuity of E in a boundary.PNG  used on input line 38.
+(pdftex.def)             Requested size: 445.18663pt x 91.06088pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+
+[36 <./immagini/Faraday's law.PNG> <./immagini/Continuity of E in a boundary.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+
+ []
+
+<./immagini/Electric flux density at a boundary.PNG, id=466, 798.5835pt x 418.56375pt>
+File: ./immagini/Electric flux density at a boundary.PNG Graphic file (type png)
+<use ./immagini/Electric flux density at a boundary.PNG>
+Package pdftex.def Info: ./immagini/Electric flux density at a boundary.PNG  used on input line 105.
+(pdftex.def)             Requested size: 479.15381pt x 251.14018pt.
+
+Overfull \hbox (26.18555pt too wide) in paragraph at lines 105--106
+ [][] 
+ []
+
+
+Underfull \vbox (badness 1377) has occurred while \output is active []
+
+
+
+[37 <./immagini/Electric flux density at a boundary.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+
+ []
+
+
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+<./immagini/Boundary in a perfect conductor.PNG, id=485, 528.17325pt x 176.45924pt>
+File: ./immagini/Boundary in a perfect conductor.PNG Graphic file (type png)
+<use ./immagini/Boundary in a perfect conductor.PNG>
+Package pdftex.def Info: ./immagini/Boundary in a perfect conductor.PNG  used on input line 176.
+(pdftex.def)             Requested size: 316.90639pt x 105.87634pt.
+)
+
+[39 <./immagini/Boundary in a perfect conductor.PNG>]
+\openout2 = `"5 - Onde piane.aux"'.
+
+ (./5 - Onde piane.tex
+
+[40
+
+
+
+
+]
+Capitolo 5.
+<./immagini/Plane_wave_wavefronts_3D.png, id=503, 262.581pt x 161.403pt>
+File: ./immagini/Plane_wave_wavefronts_3D.png Graphic file (type png)
+<use ./immagini/Plane_wave_wavefronts_3D.png>
+Package pdftex.def Info: ./immagini/Plane_wave_wavefronts_3D.png  used on input line 5.
+(pdftex.def)             Requested size: 262.58034pt x 161.4026pt.
+
+
+[41 <./immagini/Plane_wave_wavefronts_3D.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
+
+ []
+
+<./immagini/E and H in a plane wave.PNG, id=522, 609.477pt x 252.34274pt>
+File: ./immagini/E and H in a plane wave.PNG Graphic file (type png)
+<use ./immagini/E and H in a plane wave.PNG>
+Package pdftex.def Info: ./immagini/E and H in a plane wave.PNG  used on input line 142.
+(pdftex.def)             Requested size: 365.68903pt x 151.4068pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+
+
+[44 <./immagini/E and H in a plane wave.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 203--205
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+
+[45]
+<./immagini/Linearly polarized wave.PNG, id=559, 547.44525pt x 296.307pt>
+File: ./immagini/Linearly polarized wave.PNG Graphic file (type png)
+<use ./immagini/Linearly polarized wave.PNG>
+Package pdftex.def Info: ./immagini/Linearly polarized wave.PNG  used on input line 234.
+(pdftex.def)             Requested size: 437.95679pt x 237.04591pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--254
+
+ []
+
+
+
+[46 <./immagini/Linearly polarized wave.PNG>]
+<./immagini/Circularly polarized wave.PNG, id=568, 755.82375pt x 472.76625pt>
+File: ./immagini/Circularly polarized wave.PNG Graphic file (type png)
+<use ./immagini/Circularly polarized wave.PNG>
+Package pdftex.def Info: ./immagini/Circularly polarized wave.PNG  used on input line 261.
+(pdftex.def)             Requested size: 377.91095pt x 236.38254pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+
+
+[47 <./immagini/Circularly polarized wave.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+
+
+[48]
+<./immagini/Elliptically polarized wave.PNG, id=587, 804.606pt x 437.2335pt>
+File: ./immagini/Elliptically polarized wave.PNG Graphic file (type png)
+<use ./immagini/Elliptically polarized wave.PNG>
+Package pdftex.def Info: ./immagini/Elliptically polarized wave.PNG  used on input line 353.
+(pdftex.def)             Requested size: 402.30202pt x 218.61621pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--362
+
+ []
+
+)
+
+[49 <./immagini/Elliptically polarized wave.PNG>]
+\openout2 = `"6 - Onde piane TEM tra due materiali.aux"'.
+
+ (./6 - Onde piane TEM tra due materiali.tex
+
+[50
+
+
+
+
+]
+Capitolo 6.
+<./immagini/TEM plane waves.png, id=602, 414.54875pt x 122.4575pt>
+File: ./immagini/TEM plane waves.png Graphic file (type png)
+<use ./immagini/TEM plane waves.png>
+Package pdftex.def Info: ./immagini/TEM plane waves.png  used on input line 4.
+(pdftex.def)             Requested size: 414.54773pt x 122.45718pt.
+
+
+[51 <./immagini/TEM plane waves.png>]
+<./immagini/plane_waves_hom_evan.png, id=609, 277.78781pt x 323.70938pt>
+File: ./immagini/plane_waves_hom_evan.png Graphic file (type png)
+<use ./immagini/plane_waves_hom_evan.png>
+Package pdftex.def Info: ./immagini/plane_waves_hom_evan.png  used on input line 20.
+(pdftex.def)             Requested size: 277.78711pt x 323.70859pt.
+
+Overfull \hbox (10.08838pt too wide) in paragraph at lines 22--22
+[][][][][]$\OT1/cmtt/m/n/8 https : / / www . pvlighthouse . com . au / it / cms / lectures / altermatt / optics / planar-[]transversal-[]electromagnetic-[]waves$[][]| 
+ []
+
+<./immagini/TEM EM waves.PNG, id=612, 369.17924pt x 265.59225pt>
+File: ./immagini/TEM EM waves.PNG Graphic file (type png)
+<use ./immagini/TEM EM waves.PNG>
+Package pdftex.def Info: ./immagini/TEM EM waves.PNG  used on input line 29.
+(pdftex.def)             Requested size: 221.50925pt x 159.35657pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+<./immagini/EM between two mediums.PNG, id=614, 381.22424pt x 250.536pt>
+File: ./immagini/EM between two mediums.PNG Graphic file (type png)
+<use ./immagini/EM between two mediums.PNG>
+Package pdftex.def Info: ./immagini/EM between two mediums.PNG  used on input line 39.
+(pdftex.def)             Requested size: 228.73631pt x 150.32274pt.
+
+
+[52 <./immagini/plane_waves_hom_evan.png> <./immagini/TEM EM waves.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+
+
+Overfull \hbox (9.29123pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 6.1.  RIFLESSIONE E TRASMISSIONE DELLE ONDE PIANE CON INCIDENZA NORMALE (TEM) \OT1/cmr/m/n/10 53
+ []
+
+[53 <./immagini/EM between two mediums.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+
+
+Overfull \hbox (9.29123pt too wide) has occurred while \output is active
+\OT1/cmr/m/sl/10 6.1.  RIFLESSIONE E TRASMISSIONE DELLE ONDE PIANE CON INCIDENZA NORMALE (TEM) \OT1/cmr/m/n/10 55
+ []
+
+[55]
+Underfull \hbox (badness 10000) in paragraph at lines 224--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--226
+
+ []
+
+
+
+[56]
+<./immagini/Wave reflectaion in a boundary.PNG, id=669, 536.75531pt x 520.19344pt>
+File: ./immagini/Wave reflectaion in a boundary.PNG Graphic file (type png)
+<use ./immagini/Wave reflectaion in a boundary.PNG>
+Package pdftex.def Info: ./immagini/Wave reflectaion in a boundary.PNG  used on input line 258.
+(pdftex.def)             Requested size: 429.40482pt x 416.1553pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--268
+
+ []
+
+
+Underfull \vbox (badness 1577) has occurred while \output is active []
+
+
+
+[57 <./immagini/Wave reflectaion in a boundary.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+<./immagini/Snell's laws and different angles.PNG, id=678, 412.54124pt x 624.08156pt>
+File: ./immagini/Snell's laws and different angles.PNG Graphic file (type png)
+<use ./immagini/Snell's laws and different angles.PNG>
+Package pdftex.def Info: ./immagini/Snell's laws and different angles.PNG  used on input line 337.
+(pdftex.def)             Requested size: 412.54024pt x 624.08003pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[58])
+
+[59 <./immagini/Snell's laws and different angles.PNG>]
+\openout2 = `"7 - Onde piane TE e TM tra due materiali.aux"'.
+
+ (./7 - Onde piane TE e TM tra due materiali.tex
+
+[60
+
+
+
+
+]
+Capitolo 7.
+<./immagini/TX and RX.PNG, id=700, 390.258pt x 314.97675pt>
+File: ./immagini/TX and RX.PNG Graphic file (type png)
+<use ./immagini/TX and RX.PNG>
+Package pdftex.def Info: ./immagini/TX and RX.PNG  used on input line 4.
+(pdftex.def)             Requested size: 390.25703pt x 314.97597pt.
+
+
+[61 <./immagini/TX and RX.PNG>]
+<./immagini/x-z plane.jpeg, id=708, 331.2375pt x 271.0125pt>
+File: ./immagini/x-z plane.jpeg Graphic file (type jpg)
+<use ./immagini/x-z plane.jpeg>
+Package pdftex.def Info: ./immagini/x-z plane.jpeg  used on input line 17.
+(pdftex.def)             Requested size: 331.23668pt x 271.01183pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+
+[62 <./immagini/x-z plane.jpeg (PNG copy)>]
+<./immagini/TE polarization.PNG, id=718, 266.11922pt x 343.6589pt>
+File: ./immagini/TE polarization.PNG Graphic file (type png)
+<use ./immagini/TE polarization.PNG>
+Package pdftex.def Info: ./immagini/TE polarization.PNG  used on input line 43.
+(pdftex.def)             Requested size: 212.89565pt x 274.92747pt.
+<./immagini/TE polarization with equations.PNG, id=719, 884.55469pt x 523.9575pt>
+File: ./immagini/TE polarization with equations.PNG Graphic file (type png)
+<use ./immagini/TE polarization with equations.PNG>
+Package pdftex.def Info: ./immagini/TE polarization with equations.PNG  used on input line 49.
+(pdftex.def)             Requested size: 442.27626pt x 261.9781pt.
+
+
+[63 <./immagini/TE polarization.PNG> <./immagini/TE polarization with equations.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--147
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
+
+
+[66]
+<./immagini/TM polarization.PNG, id=762, 178.41656pt x 223.58531pt>
+File: ./immagini/TM polarization.PNG Graphic file (type png)
+<use ./immagini/TM polarization.PNG>
+Package pdftex.def Info: ./immagini/TM polarization.PNG  used on input line 253.
+(pdftex.def)             Requested size: 142.73343pt x 178.86847pt.
+<./immagini/TM polarization with equations.PNG, id=764, 287.57437pt x 353.06906pt>
+File: ./immagini/TM polarization with equations.PNG Graphic file (type png)
+<use ./immagini/TM polarization with equations.PNG>
+Package pdftex.def Info: ./immagini/TM polarization with equations.PNG  used on input line 261.
+(pdftex.def)             Requested size: 230.0598pt x 282.45563pt.
+
+
+[67 <./immagini/TM polarization.PNG> <./immagini/TM polarization with equations.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
+
+ []
+
+
+
+[68]
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
+
+ []
+
+<./immagini/Angolo polarizzatore.PNG, id=790, 340.27126pt x 313.17pt>
+File: ./immagini/Angolo polarizzatore.PNG Graphic file (type png)
+<use ./immagini/Angolo polarizzatore.PNG>
+Package pdftex.def Info: ./immagini/Angolo polarizzatore.PNG  used on input line 420.
+(pdftex.def)             Requested size: 102.08215pt x 93.95172pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[69]
+<./immagini/Vettore Poynting TE e TM.PNG, id=804, 286.82156pt x 309.40594pt>
+File: ./immagini/Vettore Poynting TE e TM.PNG Graphic file (type png)
+<use ./immagini/Vettore Poynting TE e TM.PNG>
+Package pdftex.def Info: ./immagini/Vettore Poynting TE e TM.PNG  used on input line 433.
+(pdftex.def)             Requested size: 229.45755pt x 247.52509pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 437--438
+
+ []
+
+
+
+[70 <./immagini/Angolo polarizzatore.PNG> <./immagini/Vettore Poynting TE e TM.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 476--477
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--511
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--511
+
+ []
+
+<./immagini/Tabella coefficienti onde piane.PNG, id=814, 581.17125pt x 285.31593pt>
+File: ./immagini/Tabella coefficienti onde piane.PNG Graphic file (type png)
+<use ./immagini/Tabella coefficienti onde piane.PNG>
+Package pdftex.def Info: ./immagini/Tabella coefficienti onde piane.PNG  used on input line 516.
+(pdftex.def)             Requested size: 464.93764pt x 228.25305pt.
+
+Overfull \hbox (11.96938pt too wide) in paragraph at lines 516--517
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[71])
+
+[72 <./immagini/Tabella coefficienti onde piane.PNG>]
+\openout2 = `"8 - Cavo Coax.aux"'.
+
+ (./8 - Cavo Coax.tex
+Capitolo 8.
+<./immagini/cavo coassiale vero.png, id=832, 702.625pt x 702.625pt>
+File: ./immagini/cavo coassiale vero.png Graphic file (type png)
+<use ./immagini/cavo coassiale vero.png>
+Package pdftex.def Info: ./immagini/cavo coassiale vero.png  used on input line 5.
+(pdftex.def)             Requested size: 351.31163pt x 351.31163pt.
+
+
+[73
+
+
+
+
+ <./immagini/cavo coassiale vero.png>]
+<./immagini/Cavo-spelato-nomi-delle-parti-copia-1024x779.jpg, id=840, 770.88pt x 586.44093pt>
+File: ./immagini/Cavo-spelato-nomi-delle-parti-copia-1024x779.jpg Graphic file (type jpg)
+<use ./immagini/Cavo-spelato-nomi-delle-parti-copia-1024x779.jpg>
+Package pdftex.def Info: ./immagini/Cavo-spelato-nomi-delle-parti-copia-1024x779.jpg  used on input line 16.
+(pdftex.def)             Requested size: 385.43906pt x 293.21974pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+
+ []
+
+
+
+[74 <./immagini/Cavo-spelato-nomi-delle-parti-copia-1024x779.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+[][]$\OT1/cmtt/m/n/10 https : / / www . youmath . it / lezioni / analisi-[]due / varie / 2282-[]coordinate-[]cilindriche .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+[][]$\OT1/cmtt/m/n/10 https : / / www . elettra2000 . it / vdegliesposti / Dispense % 20Propagazione / Richiami _
+ []
+
+<./immagini/Cavo coax schematizzato.PNG, id=853, 363.759pt x 371.58826pt>
+File: ./immagini/Cavo coax schematizzato.PNG Graphic file (type png)
+<use ./immagini/Cavo coax schematizzato.PNG>
+Package pdftex.def Info: ./immagini/Cavo coax schematizzato.PNG  used on input line 119.
+(pdftex.def)             Requested size: 181.87906pt x 185.79367pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[75]
+
+[76 <./immagini/Cavo coax schematizzato.PNG>]
+
+[77]
+
+[78]
+Underfull \hbox (badness 10000) in paragraph at lines 336--340
+
+ []
+
+
+
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 359--364
+
+ []
+
+File: ./immagini/Cavo coax schematizzato.PNG Graphic file (type png)
+<use ./immagini/Cavo coax schematizzato.PNG>
+Package pdftex.def Info: ./immagini/Cavo coax schematizzato.PNG  used on input line 374.
+(pdftex.def)             Requested size: 181.87906pt x 185.79367pt.
+
+
+[80]
+
+[81]
+
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 476--478
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 480--483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--492
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 503--504
+
+ []
+
+
+
+[83]
+
+[84]
+
+[85])
+\openout2 = `"9 - Guide d'onda.aux"'.
+
+ (./9 - Guide d'onda.tex
+
+[86
+
+
+
+
+]
+Capitolo 9.
+<./immagini/Waveguide_collection.jpg, id=977, 860.21375pt x 620.3175pt>
+File: ./immagini/Waveguide_collection.jpg Graphic file (type jpg)
+<use ./immagini/Waveguide_collection.jpg>
+Package pdftex.def Info: ./immagini/Waveguide_collection.jpg  used on input line 5.
+(pdftex.def)             Requested size: 430.10582pt x 310.15799pt.
+
+
+[87 <./immagini/Waveguide_collection.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--26
+
+ []
+
+
+
+[88]
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+
+[89]
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+
+ []
+
+
+
+[90]
+Underfull \hbox (badness 10000) in paragraph at lines 329--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--333
+
+ []
+
+
+
+[91]
+
+[92])
+\openout2 = `"10 - Guide d'onda rettangolari.aux"'.
+
+ (./10 - Guide d'onda rettangolari.tex
+Capitolo 10.
+<./immagini/Waveguide17-with-UBR120-flanges-svg.svg.png, id=1032, 1204.5pt x 944.52875pt>
+File: ./immagini/Waveguide17-with-UBR120-flanges-svg.svg.png Graphic file (type png)
+<use ./immagini/Waveguide17-with-UBR120-flanges-svg.svg.png>
+Package pdftex.def Info: ./immagini/Waveguide17-with-UBR120-flanges-svg.svg.png  used on input line 5.
+(pdftex.def)             Requested size: 421.58131pt x 330.59001pt.
+
+
+[93
+
+
+
+
+ <./immagini/Waveguide17-with-UBR120-flanges-svg.svg.png>]
+<./immagini/Coordinate system for rectangular guide.PNG, id=1039, 346.896pt x 258.9675pt>
+File: ./immagini/Coordinate system for rectangular guide.PNG Graphic file (type png)
+<use ./immagini/Coordinate system for rectangular guide.PNG>
+Package pdftex.def Info: ./immagini/Coordinate system for rectangular guide.PNG  used on input line 16.
+(pdftex.def)             Requested size: 346.89514pt x 258.96684pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
+
+
+[94 <./immagini/Coordinate system for rectangular guide.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+
+[95]
+Underfull \hbox (badness 10000) in paragraph at lines 200--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 271--276
+
+ []
+
+
+
+[96]
+
+[97]
+Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+ []
+
+
+
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 397--400
+
+ []
+
+
+
+[99])
+\openout2 = `"11 - Modi di guida d'onda rettangolare.aux"'.
+
+ (./11 - Modi di guida d'onda rettangolare.tex
+
+[100
+
+
+
+
+]
+Capitolo 11.
+<./immagini/Modi di guida rettangolare.PNG, id=1106, 454.69875pt x 418.56375pt>
+File: ./immagini/Modi di guida rettangolare.PNG Graphic file (type png)
+<use ./immagini/Modi di guida rettangolare.PNG>
+Package pdftex.def Info: ./immagini/Modi di guida rettangolare.PNG  used on input line 5.
+(pdftex.def)             Requested size: 409.22508pt x 376.70387pt.
+
+
+[101 <./immagini/Modi di guida rettangolare.PNG>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 10.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 10.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+<./immagini/Phase constant and attenuation in parallel waveguide.PNG, id=1113, 606.46574pt x 295.1025pt>
+File: ./immagini/Phase constant and attenuation in parallel waveguide.PNG Graphic file (type png)
+<use ./immagini/Phase constant and attenuation in parallel waveguide.PNG>
+Package pdftex.def Info: ./immagini/Phase constant and attenuation in parallel waveguide.PNG  used on input line 89.
+(pdftex.def)             Requested size: 424.52312pt x 206.57033pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[102]
+<./immagini/Frequenze di cut-off in base alla modalità della guida d'onda.PNG, id=1128, 446.26724pt x 145.14224pt>
+File: ./immagini/Frequenze di cut-off in base alla modalità della guida d'onda.PNG Graphic file (type png)
+<use ./immagini/Frequenze di cut-off in base alla modalità della guida d'onda.PNG>
+Package pdftex.def Info: ./immagini/Frequenze di cut-off in base alla modalità della guida d'onda.PNG  used on input line 104.
+(pdftex.def)             Requested size: 446.26614pt x 145.14188pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--121
+
+ []
+
+<./immagini/Atenuanzioni di guida d'onda con rame.PNG, id=1129, 466.74374pt x 318.59026pt>
+File: ./immagini/Atenuanzioni di guida d'onda con rame.PNG Graphic file (type png)
+<use ./immagini/Atenuanzioni di guida d'onda con rame.PNG>
+Package pdftex.def Info: ./immagini/Atenuanzioni di guida d'onda con rame.PNG  used on input line 124.
+(pdftex.def)             Requested size: 373.3955pt x 254.87254pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+
+ []
+
+
+
+[103 <./immagini/Phase constant and attenuation in parallel waveguide.PNG> <./immagini/Frequenze di cut-off in base alla modalità della guida d'onda.PNG>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[104 <./immagini/Atenuanzioni di guida d'onda con rame.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+<./immagini/TE 10.PNG, id=1146, 414.348pt x 437.83575pt>
+File: ./immagini/TE 10.PNG Graphic file (type png)
+<use ./immagini/TE 10.PNG>
+Package pdftex.def Info: ./immagini/TE 10.PNG  used on input line 207.
+(pdftex.def)             Requested size: 372.90974pt x 394.04854pt.
+
+
+[105 <./immagini/TE 10.PNG>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 212.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 212.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 212.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+
+ []
+
+
+
+[106]) (./Appunti Campi Elettromagnetici.aux (./Introduzione.aux) (./Tabella lettere greche.aux) (./1 - Equazioni di Maxwell.aux) (./2 - Onde in forma fasoriale.aux) (./3 - Teorema di Poynting.aux) (./4 - Continuità dei campi.aux) (./5 - Onde piane.aux) (./6 - Onde piane TEM tra due materiali.aux) (./7 - Onde piane TE e TM tra due materiali.aux) (./8 - Cavo Coax.aux) (./9 - Guide d'onda.aux) (./10 - Guide d'onda rettangolari.aux) (./11 - Modi di guida d'onda rettangolare.aux))
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 26326 strings out of 473197
+ 514155 string characters out of 5718605
+ 883745 words of memory out of 5000000
+ 48521 multiletter control sequences out of 15000+600000
+ 573632 words of font info for 92 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 116i,22n,121p,1051b,611s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on "Appunti Campi Elettromagnetici.pdf" (106 pages, 4617573 bytes).
+PDF statistics:
+ 1542 PDF objects out of 1728 (max. 8388607)
+ 1286 compressed objects within 13 object streams
+ 555 named destinations out of 1000 (max. 500000)
+ 677 words of extra memory for PDF output out of 10000 (max. 10000000)
+

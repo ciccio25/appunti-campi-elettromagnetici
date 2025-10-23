@@ -26,12 +26,29 @@
 
 \usepackage{textcomp}
 
+\usepackage{imakeidx} 
+\makeindex[columns=3, title=Alphabetical Index, intoc]
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    bookmarksnumbered=true,  % <-- numerazione nelle sezioni del PDF
+    pdftitle={Appunti Campi Elettromagnetici},
+    pdfauthor={Stefano Rossini},
+    pdfstartview=FitH
+}
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{4}
+
 \begin{document}
 
 \maketitle
 
 %\setcounter{chapter}{-1}
 \include{Introduzione}
+
+\tableofcontents 
 
 \include{Tabella lettere greche}
 

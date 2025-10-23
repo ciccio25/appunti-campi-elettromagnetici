@@ -1,0 +1,712 @@
+PWD /home/ubuntu-vm/GitHub/appunti-campi-elettromagnetici/File in Latex Definitivo
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/ubuntu-vm/GitHub/appunti-campi-elettromagnetici/File in Latex Definitivo/Appunti Campi Elettromagnetici.tex
+OUTPUT Appunti Campi Elettromagnetici.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-italian/italian.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/it/babel-italian.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/it/babel-italian.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/it/babel-italian.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/locale/it/babel-it.ini
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/physics/physics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/physics/physics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/gensymb/gensymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/gensymb/gensymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+OUTPUT Appunti Campi Elettromagnetici.idx
+INPUT ./Appunti Campi Elettromagnetici.aux
+INPUT ./Appunti Campi Elettromagnetici.aux
+INPUT Appunti Campi Elettromagnetici.aux
+INPUT ./Introduzione.aux
+INPUT ./Introduzione.aux
+INPUT Introduzione.aux
+INPUT ./Tabella lettere greche.aux
+INPUT ./Tabella lettere greche.aux
+INPUT Tabella lettere greche.aux
+INPUT ./1 - Equazioni di Maxwell.aux
+INPUT ./1 - Equazioni di Maxwell.aux
+INPUT 1 - Equazioni di Maxwell.aux
+INPUT ./2 - Onde in forma fasoriale.aux
+INPUT ./2 - Onde in forma fasoriale.aux
+INPUT 2 - Onde in forma fasoriale.aux
+INPUT ./3 - Teorema di Poynting.aux
+INPUT ./3 - Teorema di Poynting.aux
+INPUT 3 - Teorema di Poynting.aux
+INPUT ./4 - Continuità dei campi.aux
+INPUT ./4 - Continuità dei campi.aux
+INPUT 4 - Continuità dei campi.aux
+INPUT ./5 - Onde piane.aux
+INPUT ./5 - Onde piane.aux
+INPUT 5 - Onde piane.aux
+INPUT ./6 - Onde piane TEM tra due materiali.aux
+INPUT ./6 - Onde piane TEM tra due materiali.aux
+INPUT 6 - Onde piane TEM tra due materiali.aux
+INPUT ./7 - Onde piane TE e TM tra due materiali.aux
+INPUT ./7 - Onde piane TE e TM tra due materiali.aux
+INPUT 7 - Onde piane TE e TM tra due materiali.aux
+INPUT ./8 - Cavo Coax.aux
+INPUT ./8 - Cavo Coax.aux
+INPUT 8 - Cavo Coax.aux
+INPUT ./9 - Guide d'onda.aux
+INPUT ./9 - Guide d'onda.aux
+INPUT 9 - Guide d'onda.aux
+INPUT ./10 - Guide d'onda rettangolari.aux
+INPUT ./10 - Guide d'onda rettangolari.aux
+INPUT 10 - Guide d'onda rettangolari.aux
+INPUT ./11 - Modi di guida d'onda rettangolare.aux
+INPUT ./11 - Modi di guida d'onda rettangolare.aux
+INPUT 11 - Modi di guida d'onda rettangolare.aux
+OUTPUT Appunti Campi Elettromagnetici.aux
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+OUTPUT Appunti Campi Elettromagnetici.pdf
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0800.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./Introduzione.tex
+INPUT ./Introduzione.tex
+OUTPUT Introduzione.aux
+INPUT ./Introduzione.tex
+INPUT ./Introduzione.tex
+INPUT Introduzione.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0700.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
+INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./Appunti Campi Elettromagnetici.toc
+INPUT ./Appunti Campi Elettromagnetici.toc
+INPUT Appunti Campi Elettromagnetici.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+OUTPUT Appunti Campi Elettromagnetici.toc
+INPUT ./Tabella lettere greche.tex
+INPUT ./Tabella lettere greche.tex
+OUTPUT Tabella lettere greche.aux
+INPUT ./Tabella lettere greche.tex
+INPUT ./Tabella lettere greche.tex
+INPUT Tabella lettere greche.tex
+INPUT ./1 - Equazioni di Maxwell.tex
+INPUT ./1 - Equazioni di Maxwell.tex
+OUTPUT 1 - Equazioni di Maxwell.aux
+INPUT ./1 - Equazioni di Maxwell.tex
+INPUT ./1 - Equazioni di Maxwell.tex
+INPUT 1 - Equazioni di Maxwell.tex
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./immagini/James_Clerk_Maxwell.png
+INPUT ./immagini/James_Clerk_Maxwell.png
+INPUT ./immagini/James_Clerk_Maxwell.png
+INPUT ./immagini/James_Clerk_Maxwell.png
+INPUT ./immagini/James_Clerk_Maxwell_sig.png
+INPUT ./immagini/James_Clerk_Maxwell_sig.png
+INPUT ./immagini/James_Clerk_Maxwell_sig.png
+INPUT ./immagini/James_Clerk_Maxwell_sig.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1440.tfm
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 1-36 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 1-36 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 1-36 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 1-36 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 2-10 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 2-10 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 2-10 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 2-10 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 6-43 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 6-43 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 6-43 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 6-43 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 7-6 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 7-6 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 7-6 screenshot.png
+INPUT ./immagini/Rotore e Divergenza_ Cosa Sono_ A che Servono_ 7-6 screenshot.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT ./2 - Onde in forma fasoriale.tex
+INPUT ./2 - Onde in forma fasoriale.tex
+OUTPUT 2 - Onde in forma fasoriale.aux
+INPUT ./2 - Onde in forma fasoriale.tex
+INPUT ./2 - Onde in forma fasoriale.tex
+INPUT 2 - Onde in forma fasoriale.tex
+INPUT ./immagini/Fasori rappresentazione.png
+INPUT ./immagini/Fasori rappresentazione.png
+INPUT ./immagini/Fasori rappresentazione.png
+INPUT ./immagini/Fasori rappresentazione.png
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/ueuf.fd
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eufm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eufm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eufm7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eufm5.tfm
+INPUT ./immagini/InQuadratura.jpg
+INPUT ./immagini/InQuadratura.jpg
+INPUT ./immagini/InQuadratura.jpg
+INPUT ./immagini/InQuadratura.jpg
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eufm10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/euler/eufm7.tfm
+INPUT ./3 - Teorema di Poynting.tex
+INPUT ./3 - Teorema di Poynting.tex
+OUTPUT 3 - Teorema di Poynting.aux
+INPUT ./3 - Teorema di Poynting.tex
+INPUT ./3 - Teorema di Poynting.tex
+INPUT 3 - Teorema di Poynting.tex
+INPUT ./immagini/John_Henry_Poynting.jpg
+INPUT ./immagini/John_Henry_Poynting.jpg
+INPUT ./immagini/John_Henry_Poynting.jpg
+INPUT ./immagini/John_Henry_Poynting.jpg
+INPUT ./immagini/John_Henry_Poynting_signature.png
+INPUT ./immagini/John_Henry_Poynting_signature.png
+INPUT ./immagini/John_Henry_Poynting_signature.png
+INPUT ./immagini/John_Henry_Poynting_signature.png
+INPUT ./immagini/Ohmic loss.PNG
+INPUT ./immagini/Ohmic loss.PNG
+INPUT ./immagini/Ohmic loss.PNG
+INPUT ./immagini/Ohmic loss.PNG
+INPUT ./4 - Continuità dei campi.tex
+INPUT ./4 - Continuità dei campi.tex
+OUTPUT 4 - Continuità dei campi.aux
+INPUT ./4 - Continuità dei campi.tex
+INPUT ./4 - Continuità dei campi.tex
+INPUT 4 - Continuità dei campi.tex
+INPUT ./immagini/Michael_Faraday_sitting_crop.jpg
+INPUT ./immagini/Michael_Faraday_sitting_crop.jpg
+INPUT ./immagini/Michael_Faraday_sitting_crop.jpg
+INPUT ./immagini/Michael_Faraday_sitting_crop.jpg
+INPUT ./immagini/Michael_Faraday_signature.png
+INPUT ./immagini/Michael_Faraday_signature.png
+INPUT ./immagini/Michael_Faraday_signature.png
+INPUT ./immagini/Michael_Faraday_signature.png
+INPUT ./immagini/Faraday's law.PNG
+INPUT ./immagini/Faraday's law.PNG
+INPUT ./immagini/Faraday's law.PNG
+INPUT ./immagini/Faraday's law.PNG
+INPUT ./immagini/Continuity of E in a boundary.PNG
+INPUT ./immagini/Continuity of E in a boundary.PNG
+INPUT ./immagini/Continuity of E in a boundary.PNG
+INPUT ./immagini/Continuity of E in a boundary.PNG
+INPUT ./immagini/Electric flux density at a boundary.PNG
+INPUT ./immagini/Electric flux density at a boundary.PNG
+INPUT ./immagini/Electric flux density at a boundary.PNG
+INPUT ./immagini/Electric flux density at a boundary.PNG
+INPUT ./immagini/Boundary in a perfect conductor.PNG
+INPUT ./immagini/Boundary in a perfect conductor.PNG
+INPUT ./immagini/Boundary in a perfect conductor.PNG
+INPUT ./immagini/Boundary in a perfect conductor.PNG
+INPUT ./5 - Onde piane.tex
+INPUT ./5 - Onde piane.tex
+OUTPUT 5 - Onde piane.aux
+INPUT ./5 - Onde piane.tex
+INPUT ./5 - Onde piane.tex
+INPUT 5 - Onde piane.tex
+INPUT ./immagini/Plane_wave_wavefronts_3D.png
+INPUT ./immagini/Plane_wave_wavefronts_3D.png
+INPUT ./immagini/Plane_wave_wavefronts_3D.png
+INPUT ./immagini/Plane_wave_wavefronts_3D.png
+INPUT ./immagini/E and H in a plane wave.PNG
+INPUT ./immagini/E and H in a plane wave.PNG
+INPUT ./immagini/E and H in a plane wave.PNG
+INPUT ./immagini/E and H in a plane wave.PNG
+INPUT ./immagini/Linearly polarized wave.PNG
+INPUT ./immagini/Linearly polarized wave.PNG
+INPUT ./immagini/Linearly polarized wave.PNG
+INPUT ./immagini/Linearly polarized wave.PNG
+INPUT ./immagini/Circularly polarized wave.PNG
+INPUT ./immagini/Circularly polarized wave.PNG
+INPUT ./immagini/Circularly polarized wave.PNG
+INPUT ./immagini/Circularly polarized wave.PNG
+INPUT ./immagini/Elliptically polarized wave.PNG
+INPUT ./immagini/Elliptically polarized wave.PNG
+INPUT ./immagini/Elliptically polarized wave.PNG
+INPUT ./immagini/Elliptically polarized wave.PNG
+INPUT ./6 - Onde piane TEM tra due materiali.tex
+INPUT ./6 - Onde piane TEM tra due materiali.tex
+OUTPUT 6 - Onde piane TEM tra due materiali.aux
+INPUT ./6 - Onde piane TEM tra due materiali.tex
+INPUT ./6 - Onde piane TEM tra due materiali.tex
+INPUT 6 - Onde piane TEM tra due materiali.tex
+INPUT ./immagini/TEM plane waves.png
+INPUT ./immagini/TEM plane waves.png
+INPUT ./immagini/TEM plane waves.png
+INPUT ./immagini/TEM plane waves.png
+INPUT ./immagini/plane_waves_hom_evan.png
+INPUT ./immagini/plane_waves_hom_evan.png
+INPUT ./immagini/plane_waves_hom_evan.png
+INPUT ./immagini/plane_waves_hom_evan.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT ./immagini/TEM EM waves.PNG
+INPUT ./immagini/TEM EM waves.PNG
+INPUT ./immagini/TEM EM waves.PNG
+INPUT ./immagini/TEM EM waves.PNG
+INPUT ./immagini/EM between two mediums.PNG
+INPUT ./immagini/EM between two mediums.PNG
+INPUT ./immagini/EM between two mediums.PNG
+INPUT ./immagini/EM between two mediums.PNG
+INPUT ./immagini/Wave reflectaion in a boundary.PNG
+INPUT ./immagini/Wave reflectaion in a boundary.PNG
+INPUT ./immagini/Wave reflectaion in a boundary.PNG
+INPUT ./immagini/Wave reflectaion in a boundary.PNG
+INPUT ./immagini/Snell's laws and different angles.PNG
+INPUT ./immagini/Snell's laws and different angles.PNG
+INPUT ./immagini/Snell's laws and different angles.PNG
+INPUT ./immagini/Snell's laws and different angles.PNG
+INPUT ./7 - Onde piane TE e TM tra due materiali.tex
+INPUT ./7 - Onde piane TE e TM tra due materiali.tex
+OUTPUT 7 - Onde piane TE e TM tra due materiali.aux
+INPUT ./7 - Onde piane TE e TM tra due materiali.tex
+INPUT ./7 - Onde piane TE e TM tra due materiali.tex
+INPUT 7 - Onde piane TE e TM tra due materiali.tex
+INPUT ./immagini/TX and RX.PNG
+INPUT ./immagini/TX and RX.PNG
+INPUT ./immagini/TX and RX.PNG
+INPUT ./immagini/TX and RX.PNG
+INPUT ./immagini/x-z plane.jpeg
+INPUT ./immagini/x-z plane.jpeg
+INPUT ./immagini/x-z plane.jpeg
+INPUT ./immagini/x-z plane.jpeg
+INPUT ./immagini/TE polarization.PNG
+INPUT ./immagini/TE polarization.PNG
+INPUT ./immagini/TE polarization.PNG
+INPUT ./immagini/TE polarization.PNG
+INPUT ./immagini/TE polarization with equations.PNG
+INPUT ./immagini/TE polarization with equations.PNG
+INPUT ./immagini/TE polarization with equations.PNG
+INPUT ./immagini/TE polarization with equations.PNG
+INPUT ./immagini/TM polarization.PNG
+INPUT ./immagini/TM polarization.PNG
+INPUT ./immagini/TM polarization.PNG
+INPUT ./immagini/TM polarization.PNG
+INPUT ./immagini/TM polarization with equations.PNG
+INPUT ./immagini/TM polarization with equations.PNG
+INPUT ./immagini/TM polarization with equations.PNG
+INPUT ./immagini/TM polarization with equations.PNG
+INPUT ./immagini/Angolo polarizzatore.PNG
+INPUT ./immagini/Angolo polarizzatore.PNG
+INPUT ./immagini/Angolo polarizzatore.PNG
+INPUT ./immagini/Angolo polarizzatore.PNG
+INPUT ./immagini/Vettore Poynting TE e TM.PNG
+INPUT ./immagini/Vettore Poynting TE e TM.PNG
+INPUT ./immagini/Vettore Poynting TE e TM.PNG
+INPUT ./immagini/Vettore Poynting TE e TM.PNG
+INPUT ./immagini/Tabella coefficienti onde piane.PNG
+INPUT ./immagini/Tabella coefficienti onde piane.PNG
+INPUT ./immagini/Tabella coefficienti onde piane.PNG
+INPUT ./immagini/Tabella coefficienti onde piane.PNG
+INPUT ./8 - Cavo Coax.tex
+INPUT ./8 - Cavo Coax.tex
+OUTPUT 8 - Cavo Coax.aux
+INPUT ./8 - Cavo Coax.tex
+INPUT ./8 - Cavo Coax.tex
+INPUT 8 - Cavo Coax.tex
+INPUT ./immagini/cavo coassiale vero.png
+INPUT ./immagini/cavo coassiale vero.png
+INPUT ./immagini/cavo coassiale vero.png
+INPUT ./immagini/cavo coassiale vero.png
+INPUT ./immagini/Cavo-spelato-nomi-delle-parti-copia-1024x779.jpg
+INPUT ./immagini/Cavo-spelato-nomi-delle-parti-copia-1024x779.jpg
+INPUT ./immagini/Cavo-spelato-nomi-delle-parti-copia-1024x779.jpg
+INPUT ./immagini/Cavo-spelato-nomi-delle-parti-copia-1024x779.jpg
+INPUT ./immagini/Cavo coax schematizzato.PNG
+INPUT ./immagini/Cavo coax schematizzato.PNG
+INPUT ./immagini/Cavo coax schematizzato.PNG
+INPUT ./immagini/Cavo coax schematizzato.PNG
+INPUT ./immagini/Cavo coax schematizzato.PNG
+INPUT ./immagini/Cavo coax schematizzato.PNG
+INPUT ./immagini/Cavo coax schematizzato.PNG
+INPUT ./9 - Guide d'onda.tex
+INPUT ./9 - Guide d'onda.tex
+OUTPUT 9 - Guide d'onda.aux
+INPUT ./9 - Guide d'onda.tex
+INPUT ./9 - Guide d'onda.tex
+INPUT 9 - Guide d'onda.tex
+INPUT ./immagini/Waveguide_collection.jpg
+INPUT ./immagini/Waveguide_collection.jpg
+INPUT ./immagini/Waveguide_collection.jpg
+INPUT ./immagini/Waveguide_collection.jpg
+INPUT ./10 - Guide d'onda rettangolari.tex
+INPUT ./10 - Guide d'onda rettangolari.tex
+OUTPUT 10 - Guide d'onda rettangolari.aux
+INPUT ./10 - Guide d'onda rettangolari.tex
+INPUT ./10 - Guide d'onda rettangolari.tex
+INPUT 10 - Guide d'onda rettangolari.tex
+INPUT ./immagini/Waveguide17-with-UBR120-flanges-svg.svg.png
+INPUT ./immagini/Waveguide17-with-UBR120-flanges-svg.svg.png
+INPUT ./immagini/Waveguide17-with-UBR120-flanges-svg.svg.png
+INPUT ./immagini/Waveguide17-with-UBR120-flanges-svg.svg.png
+INPUT ./immagini/Coordinate system for rectangular guide.PNG
+INPUT ./immagini/Coordinate system for rectangular guide.PNG
+INPUT ./immagini/Coordinate system for rectangular guide.PNG
+INPUT ./immagini/Coordinate system for rectangular guide.PNG
+INPUT ./11 - Modi di guida d'onda rettangolare.tex
+INPUT ./11 - Modi di guida d'onda rettangolare.tex
+OUTPUT 11 - Modi di guida d'onda rettangolare.aux
+INPUT ./11 - Modi di guida d'onda rettangolare.tex
+INPUT ./11 - Modi di guida d'onda rettangolare.tex
+INPUT 11 - Modi di guida d'onda rettangolare.tex
+INPUT ./immagini/Modi di guida rettangolare.PNG
+INPUT ./immagini/Modi di guida rettangolare.PNG
+INPUT ./immagini/Modi di guida rettangolare.PNG
+INPUT ./immagini/Modi di guida rettangolare.PNG
+INPUT ./immagini/Phase constant and attenuation in parallel waveguide.PNG
+INPUT ./immagini/Phase constant and attenuation in parallel waveguide.PNG
+INPUT ./immagini/Phase constant and attenuation in parallel waveguide.PNG
+INPUT ./immagini/Phase constant and attenuation in parallel waveguide.PNG
+INPUT ./immagini/Frequenze di cut-off in base alla modalità della guida d'onda.PNG
+INPUT ./immagini/Frequenze di cut-off in base alla modalità della guida d'onda.PNG
+INPUT ./immagini/Frequenze di cut-off in base alla modalità della guida d'onda.PNG
+INPUT ./immagini/Frequenze di cut-off in base alla modalità della guida d'onda.PNG
+INPUT ./immagini/Atenuanzioni di guida d'onda con rame.PNG
+INPUT ./immagini/Atenuanzioni di guida d'onda con rame.PNG
+INPUT ./immagini/Atenuanzioni di guida d'onda con rame.PNG
+INPUT ./immagini/Atenuanzioni di guida d'onda con rame.PNG
+INPUT ./immagini/TE 10.PNG
+INPUT ./immagini/TE 10.PNG
+INPUT ./immagini/TE 10.PNG
+INPUT ./immagini/TE 10.PNG
+INPUT Appunti Campi Elettromagnetici.aux
+INPUT ./Introduzione.aux
+INPUT ./Introduzione.aux
+INPUT Introduzione.aux
+INPUT ./Tabella lettere greche.aux
+INPUT ./Tabella lettere greche.aux
+INPUT Tabella lettere greche.aux
+INPUT ./1 - Equazioni di Maxwell.aux
+INPUT ./1 - Equazioni di Maxwell.aux
+INPUT 1 - Equazioni di Maxwell.aux
+INPUT ./2 - Onde in forma fasoriale.aux
+INPUT ./2 - Onde in forma fasoriale.aux
+INPUT 2 - Onde in forma fasoriale.aux
+INPUT ./3 - Teorema di Poynting.aux
+INPUT ./3 - Teorema di Poynting.aux
+INPUT 3 - Teorema di Poynting.aux
+INPUT ./4 - Continuità dei campi.aux
+INPUT ./4 - Continuità dei campi.aux
+INPUT 4 - Continuità dei campi.aux
+INPUT ./5 - Onde piane.aux
+INPUT ./5 - Onde piane.aux
+INPUT 5 - Onde piane.aux
+INPUT ./6 - Onde piane TEM tra due materiali.aux
+INPUT ./6 - Onde piane TEM tra due materiali.aux
+INPUT 6 - Onde piane TEM tra due materiali.aux
+INPUT ./7 - Onde piane TE e TM tra due materiali.aux
+INPUT ./7 - Onde piane TE e TM tra due materiali.aux
+INPUT 7 - Onde piane TE e TM tra due materiali.aux
+INPUT ./8 - Cavo Coax.aux
+INPUT ./8 - Cavo Coax.aux
+INPUT 8 - Cavo Coax.aux
+INPUT ./9 - Guide d'onda.aux
+INPUT ./9 - Guide d'onda.aux
+INPUT 9 - Guide d'onda.aux
+INPUT ./10 - Guide d'onda rettangolari.aux
+INPUT ./10 - Guide d'onda rettangolari.aux
+INPUT 10 - Guide d'onda rettangolari.aux
+INPUT ./11 - Modi di guida d'onda rettangolare.aux
+INPUT ./11 - Modi di guida d'onda rettangolare.aux
+INPUT 11 - Modi di guida d'onda rettangolare.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb
